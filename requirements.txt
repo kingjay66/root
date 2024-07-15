@@ -16,3 +16,4 @@ metakernel>=0.20.0
 pyspark>=2.4 # Spark backend
 dask>=2022.08.1 # Dask backend
 distributed>=2022.08.1 # Dask backend
+setuptools>=70.0.0 # not directly required, pinned by Snyk to avoid a vulnerability
